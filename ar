@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,HBO2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_108149b35af8e4a95e5e239228bf0caf0e7e543f/playlist.m3u8
+#EXTINF:-1,HBO Plus
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_8502b634def21f06fd41ec732c44875ace6bac5b/playlist.m3u8
+#EXTINF:-1,Max Prime
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/maxprime_9c676e00_e12b57d6e0809786d3c3b76f1cc6283367ba7b33/playlist.m3u8
+#EXTINF:-1,TNT
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_2f4660ff5a9b632e0c8339ce181048bd3b1d7bad/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca 
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/telecinepipocahd_ae7329c9_a8522cc5659b425e230dc3c936fcfc2f9ff03be3.m3u8
+#EXTINF:-1,Telecine Fun
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinefun_ae1e7198_6a3734ac7f9c3e2351f0b41d98fcd43febf54374/playlist.m3u8
